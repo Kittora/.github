@@ -14,7 +14,7 @@ Kittora is an organization focused on building small, well-crafted tools for cre
 
 | Project | Description | Status |
 |---|---|---|
-| [**LiquidGlass**](https://github.com/Kittora/LiquidGlass) | Multimedia downloader and re-encoder powered by `yt-dlp` and `ffmpeg`, with a WebView2 interface | 🟡 Functional alpha |
+| [**LiquidCat**](https://github.com/Kittora/LiquidCat) | Multimedia downloader and re-encoder powered by `yt-dlp` and `ffmpeg`, with a WebView2 interface | 🟡 Functional alpha |
 
 ## 🛠️ Common stack
 

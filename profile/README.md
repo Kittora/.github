@@ -14,11 +14,11 @@ Kittora is an organization focused on building small, well-crafted tools for cre
 
 | Project | Description | Status |
 |---|---|---|
-| [**LiquidCat**](https://github.com/Kittora/LiquidCat) | Multimedia downloader and re-encoder powered by `yt-dlp` and `ffmpeg`, with a WebView2 interface | 🟡 Functional alpha |
+| [**LiquidCat**](https://github.com/Kittora/LiquidCat) | Native desktop app to download, convert and re-encode media, powered by `yt-dlp` and `ffmpeg`. Written in Rust with a Slint UI: GPU encoding (NVENC, AMF, Quick Sync, VAAPI, VideoToolbox), batch import, queue and history, 14 themes and 6 languages | 🟢 [v0.4.4](https://github.com/Kittora/LiquidCat/releases/latest) · Windows, Linux & macOS (experimental) |
 
 ## 🛠️ Common stack
 
-Python · WebView2 · yt-dlp · ffmpeg
+Rust · Slint · yt-dlp · ffmpeg
 
 ## 🤝 Contributing
 
